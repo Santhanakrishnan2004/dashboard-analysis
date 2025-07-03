@@ -1,6 +1,7 @@
-# Consultant Payment & Application Dashboard
+# Consultant Payment  Dashboard
 
 ![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard-dark.png)
 
 ## 📊 Overview
 This interactive dashboard provides insights into:
@@ -17,6 +18,8 @@ This interactive dashboard provides insights into:
 - Dynamic filters (Workplace, Application Status, Active Status)
 - Visual storytelling with age, education, and category comparisons
 - Monthly trend and classification breakdowns
+- used automatic refresh using powerbi workspace
+- custom tooltips
 
 ## 📁 Files
 - `dashboard.png`: Image preview
